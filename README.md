@@ -92,3 +92,23 @@ Contributions are welcome! Feel free to fork this repository, submit pull reques
 This project is licensed under the MIT License.  
 
 ---  
+
+
+# **Demo**
+
+![AccountPage](https://raw.githubusercontent.com/ShadowAdi/aura/refs/heads/master/demo/Account.jpg)
+
+![CreatePage](https://raw.githubusercontent.com/ShadowAdi/aura/refs/heads/master/demo/CreateVideo.jpg)
+
+![HomePage](https://raw.githubusercontent.com/ShadowAdi/aura/refs/heads/master/demo/Home.jpg)
+
+![HomePage2](https://raw.githubusercontent.com/ShadowAdi/aura/refs/heads/master/demo/Home2.jpg)
+
+![LoginPage](https://raw.githubusercontent.com/ShadowAdi/aura/refs/heads/master/demo/Login.jpg)
+
+![ProfilePage](https://raw.githubusercontent.com/ShadowAdi/aura/refs/heads/master/demo/Profile.jpg)
+
+![IndexPage](https://raw.githubusercontent.com/ShadowAdi/aura/refs/heads/master/demo/index.jpg)
+
+![Video](https://github.com/ShadowAdi/aura/blob/master/demo/video_dummy.mp4)
+
