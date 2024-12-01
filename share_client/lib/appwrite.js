@@ -1,16 +1,15 @@
 import { router } from 'expo-router';
 import { Client, Account, ID, Avatars, Databases, Query, Storage } from 'react-native-appwrite';
-
-
-export const config = {
-    endpoint: "https://cloud.appwrite.io/v1",
-    platform: "com.shadowadi.aora",
-    projectId: "6747292d0024318658b0",
-    databaseId: "67474ad5000017240c77",
-    userCollectionId: "67474b040021f85006fc",
-    videoCollectionId: "67474b370009a961f521",
-    storageId: "67475668003168f4ccb9"
-}
+import 'dotenv/config';  
+export const config = {  
+    endpoint: process.env.APPWRITE_ENDPOINT,  
+    platform: process.env.APPWRITE_PLATFORM,  
+    projectId: process.env.APPWRITE_PROJECT_ID,  
+    databaseId: process.env.APPWRITE_DATABASE_ID,  
+    userCollectionId: process.env.APPWRITE_USER_COLLECTION_ID,  
+    videoCollectionId: process.env.APPWRITE_VIDEO_COLLECTION_ID,  
+    storageId: process.env.APPWRITE_STORAGE_ID,  
+};  
 
 const client = new Client()
 
