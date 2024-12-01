@@ -36,8 +36,8 @@ Additionally, set up an **Appwrite** backend instance for managing authenticatio
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-repo/aura.git  
-   cd aura  
+   git clone [https://github.com/your-repo/aura.git  ](https://github.com/ShadowAdi/aura.git)
+   cd share_client  
    ```  
 
 2. Install dependencies:  
